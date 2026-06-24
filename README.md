@@ -120,9 +120,9 @@ My conviction is simple: **technology should solve real business problems *and* 
 <br/>
 
 <!-- Send me the exact names/issuers/years and I'll replace these examples. -->
-- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
+<!--- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
 - _[AI / Product certificate]_ — _[Issuer]_, _[Year]_
-- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
+- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_-->
 
 </details>
 
