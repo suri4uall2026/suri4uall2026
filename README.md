@@ -10,7 +10,14 @@
 <!-- ====================== HERO BANNER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,45:11998E,100:1B6FC9&height=300&section=header&text=Suresh%20Grandhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Product%20Manager%20%E2%80%A2%20Program%20Leader%20%E2%80%A2%20FinTech%20%26%20Sustainability%20Technology&descSize=18&descAlignY=60" width="100%" alt="Suresh Grandhi — Technology Leadership Banner" />
+<img src="assets/banner.png" width="100%" alt="Suresh Grandhi — Product & Sustainability Technology Leader" />
+
+<!-- HERO NOTE: upload the provided assets/banner.png into an /assets folder in your repo so this displays.
+     Prefer a zero-upload animated banner? Replace the <img> line above with the one below:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,45:11998E,100:1B6FC9&height=220&section=header&text=Suresh%20Grandhi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Suresh Grandhi" />
+-->
+
+### Product Manager · Program Leader · FinTech & Sustainability Technology
 
 <!-- ====================== TYPING HEADER ====================== -->
 <a href="https://letsloop.in">
@@ -55,31 +62,31 @@ My conviction is simple: **technology should solve real business problems *and* 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <h1>🗓️ 18+</h1>
-      <b>Years of Experience</b><br/>
-      <sub>Engineering → Product → Leadership</sub>
+      <h1>🧩 9+</h1>
+      <b>Products Owned End-to-End</b><br/>
+      <sub>Vision → design → launch → scale</sub>
     </td>
     <td align="center" width="33%">
       <h1>🏦 170+</h1>
-      <b>Banking Services</b><br/>
-      <sub>Delivered via iMobile Pay</sub>
+      <b>Banking Services Shipped</b><br/>
+      <sub>iMobile Pay · ICICI Bank</sub>
     </td>
     <td align="center" width="33%">
-      <h1>🏪 1000+</h1>
-      <b>Retail Outlets Enabled</b><br/>
-      <sub>Device exchange platform</sub>
+      <h1>🗓️ 18+</h1>
+      <b>Years of Experience</b><br/>
+      <sub>Engineering → Product → Leadership</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <h1>👥 40+</h1>
-      <b>Team Members Led</b><br/>
+      <b>Cross-Functional Team Led</b><br/>
       <sub>Dev · QA · App Owners</sub>
     </td>
     <td align="center" width="33%">
-      <h1>🧩 9+</h1>
-      <b>Platforms Delivered</b><br/>
-      <sub>Banking · Retail · Sustainability</sub>
+      <h1>🏅 5+</h1>
+      <b>Certifications & Credentials</b><br/>
+      <sub>PSPO I · CSM · MCP · AI workshops</sub>
     </td>
     <td align="center" width="33%">
       <h1>🏆 4×</h1>
@@ -226,7 +233,37 @@ One of India's most comprehensive and secure mobile banking platforms — **170+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
 
-<!-- ====================== SUSTAINABILITY ====================== -->
+<!-- ====================== AI & CONTINUOUS LEARNING ====================== -->
+<div align="center"><h2>🤖 AI-Driven Innovation & Continuous Learning</h2></div>
+
+I actively apply **Artificial Intelligence** to ship smarter products and to accelerate how my teams design, prototype, and deliver. A few ways AI shows up in my work:
+
+- 🧠 **AI-powered classification** — integrated **Google Gemini** vision models to automatically detect and categorize recyclable and e-waste items, replacing manual sorting with instant, accurate recognition across the sustainability platforms.
+- ⚡ **AI-accelerated delivery** — using generative AI for rapid prototyping, requirement analysis, UX iteration, and documentation, compressing discovery-to-delivery cycles.
+- 📚 **Always learning** — I regularly invest in **workshops, bootcamps, and certification programs** to stay ahead of product, agile, and AI practice.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/AI%20Product%20Design-0B6E4F?style=for-the-badge" alt="AI Product Design" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-11998E?style=for-the-badge" alt="Prompt Engineering" />
+
+</div>
+
+<details>
+<summary><b>🎟️ Workshops, bootcamps & certificates</b></summary>
+
+<br/>
+
+<!-- Send me the exact names/issuers/years and I'll replace these examples. -->
+- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
+- _[AI / Product certificate]_ — _[Issuer]_, _[Year]_
+- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
 <div align="center"><h2>🌍 Sustainability at the Core</h2></div>
 
 <div align="center">
@@ -329,4 +366,10 @@ flowchart LR
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6FC9,55:11998E,100:0B6E4F&height=200&section=footer&text=Building%20digital%20products%20that%20create%20value%20for%20businesses%2C%20communities%2C%20and%20the%20planet&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Building digital products that create value for businesses, communities, and the planet." />
+<div align="center">
+
+### *"Building digital products that create value for businesses, communities, and the planet."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6FC9,55:11998E,100:0B6E4F&height=160&section=footer" width="100%" alt="footer" />
