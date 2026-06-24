@@ -2,18 +2,19 @@
 ============================================================
   SURESH GRANDHI · EXECUTIVE GITHUB PROFILE README
   Ready to publish. Paste into the repo: suri4uall2026/suri4uall2026
-  (Optional) Featured-repo links assume repos under github.com/suri4uall2026/
+  Contact links are filled. Personal details (address, phone, DOB)
+  are intentionally left OFF a public profile.
 ============================================================
 -->
 
 <!-- ====================== HERO BANNER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,45:11998E,100:1B6FC9&height=300&section=header&text=Suresh%20Grandhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Technical%20Project%20Lead%20%E2%80%A2%20Product%20Strategist%20%E2%80%A2%20Sustainability%20Technology%20Leader&descSize=18&descAlignY=60" width="100%" alt="Suresh Grandhi — Technology Leadership Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,45:11998E,100:1B6FC9&height=300&section=header&text=Suresh%20Grandhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Product%20Manager%20%E2%80%A2%20Program%20Leader%20%E2%80%A2%20FinTech%20%26%20Sustainability%20Technology&descSize=18&descAlignY=60" width="100%" alt="Suresh Grandhi — Technology Leadership Banner" />
 
 <!-- ====================== TYPING HEADER ====================== -->
 <a href="https://letsloop.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=11998E&center=true&vCenter=true&width=760&height=60&lines=Building+Technology+for+a+Sustainable+Future;Product+Leadership+with+Purpose;Driving+Circular+Economy+Innovation;Transforming+Ideas+into+Impact;Sustainability+Through+Digital+Innovation" alt="Mission statements" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=11998E&center=true&vCenter=true&width=760&height=60&lines=Building+Technology+for+a+Sustainable+Future;Product+Leadership+with+Purpose;From+Mobile+Banking+to+the+Circular+Economy;Transforming+Ideas+into+Impact;Sustainability+Through+Digital+Innovation" alt="Mission statements" />
 </a>
 
 <br/>
@@ -22,7 +23,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/18%2B%20Years-Technology%20Leadership-0B6E4F?style=for-the-badge" alt="Experience" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Sustainability%20%26%20Circular%20Economy-38EF7D?style=for-the-badge&labelColor=0B6E4F" alt="Focus" />
+<img src="https://img.shields.io/badge/FinTech%20%E2%80%A2%20Retail%20%E2%80%A2%20Sustainability-38EF7D?style=for-the-badge&labelColor=0B6E4F" alt="Domains" />
 
 </div>
 
@@ -31,15 +32,17 @@
 <!-- ====================== EXECUTIVE SUMMARY ====================== -->
 <div align="center"><h2>🧭 Executive Summary</h2></div>
 
-> I lead the strategy, design, and delivery of **sustainability technology platforms** that turn environmental responsibility into operating systems people actually use — across municipalities, retailers, collection partners, and citizens.
+> I lead the strategy, design, and delivery of digital products across **mobile banking, retail commerce, and sustainability technology** — turning complex business problems into platforms used at national scale.
 
-With **18+ years** spanning product management, program leadership, and digital transformation, I sit at the intersection of **business strategy and hands-on execution**. I shape product vision, translate complex requirements into clean workflows, align cross-functional teams, and ship platforms that move real-world metrics — devices recovered, materials recycled, routes optimized, and emissions avoided.
+Over **18+ years**, my path has run from hands-on engineering to enterprise delivery management to **product and program leadership**. Today I lead **sustainability and circular-economy platforms at Loop (LetsLoop)** — ReXtract, Xchange, and LetsCollect — that operationalize responsible recycling, device exchange, and reverse logistics for retailers, municipalities, and citizens.
 
-My work centers on a simple conviction: **technology should solve business problems *and* contribute to a more sustainable future.** I build the systems that make the circular economy operational at scale — reverse logistics, resource recovery, e-waste management, and sustainable commerce.
+Most recently in fintech, I managed product for **iMobile Pay at ICICI Bank** — one of India's most comprehensive and secure mobile banking applications, offering 170+ services — leading a 40+ member cross-functional team through the full agile lifecycle.
+
+My conviction is simple: **technology should solve real business problems *and* contribute to a more sustainable future.**
 
 <div align="center">
 
-`Product Strategy` · `Program Leadership` · `Digital Transformation` · `Sustainability Innovation` · `Circular Economy Platforms`
+`Product Management` · `Program Leadership` · `Agile / Scrum` · `FinTech` · `Circular Economy` · `Digital Transformation`
 
 </div>
 
@@ -54,34 +57,34 @@ My work centers on a simple conviction: **technology should solve business probl
     <td align="center" width="33%">
       <h1>🗓️ 18+</h1>
       <b>Years of Experience</b><br/>
-      <sub>Product · Program · Delivery</sub>
+      <sub>Engineering → Product → Leadership</sub>
     </td>
     <td align="center" width="33%">
-      <h1>🧩 4+</h1>
-      <b>Platforms Delivered</b><br/>
-      <sub>End-to-end ownership</sub>
+      <h1>🏦 170+</h1>
+      <b>Banking Services</b><br/>
+      <sub>Delivered via iMobile Pay</sub>
     </td>
     <td align="center" width="33%">
-      <h1>♻️ Multiple</h1>
-      <b>Circular Economy Initiatives</b><br/>
-      <sub>Collection to recovery</sub>
+      <h1>🏪 1000+</h1>
+      <b>Retail Outlets Enabled</b><br/>
+      <sub>Device exchange platform</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h1>🌱 Ongoing</h1>
-      <b>Sustainability Programs</b><br/>
-      <sub>Measurable impact</sub>
+      <h1>👥 40+</h1>
+      <b>Team Members Led</b><br/>
+      <sub>Dev · QA · App Owners</sub>
     </td>
     <td align="center" width="33%">
-      <h1>📱 Multi-OS</h1>
-      <b>Mobile Ecosystems Built</b><br/>
-      <sub>Android · iOS · Flutter</sub>
+      <h1>🧩 9+</h1>
+      <b>Platforms Delivered</b><br/>
+      <sub>Banking · Retail · Sustainability</sub>
     </td>
     <td align="center" width="33%">
-      <h1>👥 Cross-Functional</h1>
-      <b>Teams Led</b><br/>
-      <sub>Design · Eng · Ops · Vendors</sub>
+      <h1>🏆 4×</h1>
+      <b>Best Employee Awards</b><br/>
+      <sub>Recognized for delivery impact</sub>
     </td>
   </tr>
 </table>
@@ -89,29 +92,56 @@ My work centers on a simple conviction: **technology should solve business probl
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
 
+<!-- ====================== CAREER JOURNEY ====================== -->
+<div align="center"><h2>🧱 Professional Journey</h2></div>
+
+```mermaid
+graph LR
+    A([.NET Engineering · 2006–2010]):::step --> B([Service & Delivery · HCL · 2010–2017]):::step --> C([Product & Tech Lead · Ikon · 2017–2022]):::step --> D([Enterprise Consulting · Capgemini · 2022–2023]):::step --> E([FinTech Product · ICICI iMobile Pay · 2023]):::step --> F([Loop Sustainability · Oct 2023–Present]):::step
+    classDef step fill:#0B6E4F,stroke:#38EF7D,stroke-width:2px,color:#ffffff,font-weight:bold;
+```
+
+| Period | Organization | Role | Focus |
+| :--- | :--- | :--- | :--- |
+| **Oct 2023 – Present** | **Loop Sustainability (LetsLoop)** | Product & Platform Lead | ReXtract · Xchange · LetsCollect — sustainability & circular economy |
+| **Feb 2023 – Oct 2023** | **ICICI Bank** | Product Manager | iMobile Pay — mobile banking; 170+ services; 40+ member team |
+| **2022 – 2023** | **Capgemini** | Senior Consultant *(Product Owner / Scrum Master)* | MRM pricing data-warehouse for banking markets |
+| **2017 – 2022** | **Ikon Technologies** | Manager – Product & Technology | Retail exchange, buy-back, ERP · *Best Employee ×4* |
+| **2010 – 2017** | **HCL Services** | Service Manager *(Helpdesk / Delivery)* | Govt programs — Naval Command, State Taxes (3.9L dealers) |
+| **2006 – 2010** | **GrayMatter · softProjex · Prem Technologies** | Software Engineer (.NET) | Application design & development |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
+
 <!-- ====================== PRODUCT PORTFOLIO ====================== -->
 <div align="center"><h2>🚀 Product Portfolio</h2></div>
+
+<div align="center">
+
+### 🏦 Flagship — iMobile Pay *(ICICI Bank)*
+One of India's most comprehensive and secure mobile banking platforms — **170+ services**, payments over a unified interface, delivered with a 40+ member cross-functional team across the full agile lifecycle.
+
+</div>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>♻️ ReXtract</h3>
       <i>Extract. Reuse. Sustain.</i>
-      <p>A sustainability platform powering responsible recycling, device exchange, pickup services, environmental impact tracking, rewards, and sustainable commerce — the operating layer for circular economy initiatives.</p>
+      <p>A sustainability platform powering responsible recycling, device exchange, pickup services, environmental impact tracking, rewards, and sustainable commerce.</p>
       <b>Impact:</b> Turns recycling into a guided, rewarded, trackable experience for citizens and municipalities.
     </td>
     <td width="50%" valign="top">
       <h3>🔄 Xchange</h3>
       <i>Trade-in, reimagined.</i>
-      <p>A retail trade-in and exchange ecosystem connecting consumers, retailers, collection partners, and recyclers into a single value-recovery network.</p>
-      <b>Impact:</b> Unlocks residual device value and extends product lifecycles across the retail chain.
+      <p>A retail trade-in and exchange ecosystem connecting consumers, retailers, collection partners, and recyclers — algorithm-driven device valuation at scale.</p>
+      <b>Impact:</b> Unlocks residual device value across <b>1000+ retail outlets</b> and extends product lifecycles.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 LetsCollect</h3>
       <i>Field operations, in motion.</i>
-      <p>A field operations and reverse-logistics platform supporting resource recovery and collection — crew workflows, geofenced completion, live pricing, and payment.</p>
+      <p>A field operations and reverse-logistics platform supporting resource recovery — crew workflows, geofenced completion, live pricing, and payment.</p>
       <b>Impact:</b> Brings structure, traceability, and accountability to last-mile collection.
     </td>
     <td width="50%" valign="top">
@@ -124,14 +154,14 @@ My work centers on a simple conviction: **technology should solve business probl
 </table>
 
 <details>
-<summary><b>📈 Business impact at a glance</b></summary>
+<summary><b>📈 Earlier flagship platforms (Ikon Technologies)</b></summary>
 
 <br/>
 
-- **ReXtract** — converts environmental compliance into an engaging, rewards-driven recycling journey, giving municipalities and bulk waste generators measurable recovery and reporting.
-- **Xchange** — captures value that would otherwise be lost, aligning consumer incentives with retailer and recycler economics.
-- **LetsCollect** — replaces manual, opaque collection with GPS-aware, payment-integrated, auditable field operations.
-- **HRIS EasyCheck** — frees operational teams from manual people-ops, improving accuracy and time-to-decision.
+- **LFR Exchange System** — device trade-in across 1000+ retail outlets, 500+ devices/day, with a custom valuation algorithm.
+- **Assured Buy-Back System** — guaranteed buy-back pricing layered onto the exchange platform.
+- **Sales Order Management** — bulk vendor ordering with analytics feeding the valuation engine.
+- **ERP – Business Process Platform** — centralized backbone linking exchange, buy-back, orders, QC, and service/spares.
 
 </details>
 
@@ -142,15 +172,15 @@ My work centers on a simple conviction: **technology should solve business probl
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Product%20Strategy-0B6E4F?style=for-the-badge" alt="Product Strategy" />
+<img src="https://img.shields.io/badge/Product%20Management-0B6E4F?style=for-the-badge" alt="Product Management" />
 <img src="https://img.shields.io/badge/Program%20Leadership-11998E?style=for-the-badge" alt="Program Leadership" />
-<img src="https://img.shields.io/badge/Agile%20Delivery-1B6FC9?style=for-the-badge" alt="Agile Delivery" />
-<img src="https://img.shields.io/badge/Sustainability-38EF7D?style=for-the-badge&labelColor=0B6E4F" alt="Sustainability" />
+<img src="https://img.shields.io/badge/Agile%20%26%20Scrum-1B6FC9?style=for-the-badge" alt="Agile and Scrum" />
+<img src="https://img.shields.io/badge/FinTech%20%2F%20Mobile%20Banking-38EF7D?style=for-the-badge&labelColor=0B6E4F" alt="FinTech" />
 <br/>
 <img src="https://img.shields.io/badge/Circular%20Economy-0B6E4F?style=for-the-badge" alt="Circular Economy" />
 <img src="https://img.shields.io/badge/Digital%20Transformation-1B6FC9?style=for-the-badge" alt="Digital Transformation" />
-<img src="https://img.shields.io/badge/Mobile%20Platforms-11998E?style=for-the-badge" alt="Mobile Platforms" />
-<img src="https://img.shields.io/badge/Innovation%20Management-0B6E4F?style=for-the-badge" alt="Innovation Management" />
+<img src="https://img.shields.io/badge/Stakeholder%20Management-11998E?style=for-the-badge" alt="Stakeholder Management" />
+<img src="https://img.shields.io/badge/Team%20Leadership-0B6E4F?style=for-the-badge" alt="Team Leadership" />
 
 </div>
 
@@ -161,13 +191,38 @@ My work centers on a simple conviction: **technology should solve business probl
 
 | Strategy & Product | Delivery & Operations | Relationships & Process |
 | :--- | :--- | :--- |
-| Product Management | Agile Delivery | Stakeholder Management |
-| Program Management | Solution Design | Vendor Management |
-| Product Roadmapping | Platform Integrations | Process Optimization |
-| Mobile Product Strategy | Business Analysis | Team Leadership |
-| Digital Transformation | Sustainability Platforms | Circular Economy Solutions |
+| Product Management | Agile / Scrum / Kanban | Stakeholder Management |
+| Program Management | Release Management | Vendor Management |
+| Product Roadmapping | Solution Design | Process Optimization |
+| Business Analysis (BRS) | Configuration Management | Team Hiring & Mentoring |
+| Mobile Product Strategy | Quality Management | Budget & Cost Management |
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
+
+<!-- ====================== EDUCATION & CERTIFICATIONS ====================== -->
+<div align="center"><h2>🎓 Education & Certifications</h2></div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Education</h3>
+      <ul>
+        <li><b>MBA, Human Resource Management</b><br/><sub>Sikkim Manipal University · 2011</sub></li>
+        <li><b>B.Tech, Information Technology</b><br/><sub>JNTU Hyderabad (STIET) · 2006</sub></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏅 Certifications</h3>
+      <ul>
+        <li><b>Professional Scrum Product Owner I</b> <sub>(PSPO I) — Scrum.org</sub></li>
+        <li><b>Certified ScrumMaster</b> <sub>(CSM) — Scrum Alliance</sub></li>
+        <li><b>Microsoft Certified Professional</b> <sub>(C#) — Microsoft</sub></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
 
@@ -180,11 +235,11 @@ My work centers on a simple conviction: **technology should solve business probl
 
 </div>
 
-Every platform I lead is built to close the loop — keeping materials, devices, and value in circulation instead of in landfills. The model is simple to describe and hard to operationalize, which is exactly where good product leadership earns its keep:
+Every sustainability platform I lead is built to close the loop — keeping materials, devices, and value in circulation instead of in landfills. Simple to describe, hard to operationalize — which is exactly where product leadership earns its keep:
 
 ```mermaid
 flowchart LR
-    A([♻️ Collect]) --> B([🔍 Sort & Assess]) --> C([🔧 Refurbish / Recover]) --> D([📤 Redistribute]) --> E([🔄 Reuse]) --> A
+    A([Collect]) --> B([Sort & Assess]) --> C([Refurbish / Recover]) --> D([Redistribute]) --> E([Reuse]) --> A
     classDef loop fill:#0B6E4F,stroke:#38EF7D,stroke-width:2px,color:#ffffff,font-weight:bold;
     class A,B,C,D,E loop;
 ```
@@ -202,11 +257,11 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
 
 <!-- ====================== TECHNOLOGY ECOSYSTEMS ====================== -->
-<div align="center"><h2>🛠️ Technology Ecosystems Led & Delivered</h2></div>
+<div align="center"><h2>🛠️ Platforms, Tools & Ecosystems</h2></div>
 
 <div align="center">
 
-<sub><i>Platforms and stacks I have directed from concept to production — owned as a leader, not authored as a single contributor.</i></sub>
+<sub><i>Technology and delivery ecosystems I have led from concept to production — directed as a leader, across teams.</i></sub>
 
 <br/><br/>
 
@@ -215,30 +270,19 @@ flowchart LR
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotNET / C#" />
 <br/>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/Cloud%20Platforms-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Platforms" />
 <br/>
 <img src="https://img.shields.io/badge/Payment%20Gateways-16A34A?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment Gateways" />
 <img src="https://img.shields.io/badge/SMS%20Gateways-0EA5E9?style=for-the-badge&logo=twilio&logoColor=white" alt="SMS Gateways" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
-
-<!-- ====================== CAREER TIMELINE ====================== -->
-<div align="center"><h2>🧱 Professional Journey</h2></div>
-
-```mermaid
-graph LR
-    A([Technology Delivery]):::step --> B([Product Leadership]):::step --> C([Digital Transformation]):::step --> D([Sustainability Innovation]):::step --> E([Circular Economy Platforms]):::step
-    classDef step fill:#0B6E4F,stroke:#38EF7D,stroke-width:2px,color:#ffffff,font-weight:bold,rx:8,ry:8;
-```
-
-<div align="center">
-<sub><b>Technology Delivery</b> → <b>Product Leadership</b> → <b>Digital Transformation</b> → <b>Sustainability Innovation</b> → <b>Circular Economy Platforms</b></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6E4F,50:11998E,100:1B6FC9&height=2" width="100%" alt="divider" />
@@ -246,7 +290,7 @@ graph LR
 <!-- ====================== FEATURED REPOS ====================== -->
 <div align="center"><h2>📌 Featured Work & Case Studies</h2></div>
 
-<div align="center"><sub><i>Recommended repositories to pin — replace links with your own once created.</i></sub></div>
+<div align="center"><sub><i>Recommended repositories to pin — create them and these links light up.</i></sub></div>
 
 <br/>
 
