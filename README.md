@@ -79,7 +79,7 @@ My conviction is simple: **technology should solve real business problems *and* 
       <sub>Dev · QA · App Owners</sub>
     </td>
     <td align="center" width="33%">
-      <h1>🏅 5+</h1>
+      <h1>🏅 10+</h1>
       <b>Certifications & Credentials</b><br/>
       <sub>PSPO I · CSM · MCP · AI workshops</sub>
     </td>
@@ -115,14 +115,17 @@ My conviction is simple: **technology should solve real business problems *and* 
 </div>
 
 <details>
-<summary><b>🎟️ Workshops, bootcamps & certificates</b></summary>
+<summary><b>🎟️ AI workshops, bootcamps & certificates (2026)</b></summary>
 
 <br/>
 
-<!-- Send me the exact names/issuers/years and I'll replace these examples. -->
-- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
-- _[AI / Product certificate]_ — _[Issuer]_, _[Year]_
-- _[Workshop / Bootcamp name]_ — _[Issuer]_, _[Year]_
+- **Claude 101** — Anthropic
+- **Certified Claude Operator** *(Early 1% of AI-Native Professionals)* — Build Fast With AI
+- **Build AI Agents & Automations** — Build Fast With AI
+- **Claude Cowork & Code Workshop** — Build Fast With AI
+- **AI for Business Leaders Bootcamp** *(custom AI agents · N8N automation · vibe coding)* — Outskill
+- **Multi-Agent Orchestration with LangGraph** — Scaler Masterclass
+- **AI Tools & ChatGPT Workshop** — be10x
 
 </details>
 
